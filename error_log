@@ -1,0 +1,16 @@
+[13-Jun-2022 12:06:53 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/boom/public_html/wp-includes/class-wp-http.php on line 11
+[13-Jun-2022 12:06:53 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/boom/public_html/wp-includes/class-wp-http.php on line 11
+[13-Jun-2022 12:06:53 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/boom/public_html/wp-includes/class-wp-http.php on line 11
+[13-Jun-2022 12:06:53 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/boom/public_html/wp-includes/class-wp-http.php on line 11
+[13-Jun-2022 12:07:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/boom/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/boom/public_html/wp-includes/template-canvas.php on line 12
+[14-Jun-2022 05:50:48 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/boom/public_html/wp-includes/class-wp-http.php on line 11
+[14-Jun-2022 05:50:48 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/boom/public_html/wp-includes/class-wp-http.php on line 11
+[14-Jun-2022 05:50:48 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/boom/public_html/wp-includes/class-wp-http.php on line 11
+[14-Jun-2022 05:50:48 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/boom/public_html/wp-includes/class-wp-http.php on line 11
+[14-Jun-2022 05:51:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/boom/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/boom/public_html/wp-includes/template-canvas.php on line 12

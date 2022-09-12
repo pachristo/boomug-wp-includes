@@ -1,0 +1,8 @@
+[13-Jun-2022 12:07:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/boom/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/boom/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Jun-2022 05:53:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/boom/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/boom/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
